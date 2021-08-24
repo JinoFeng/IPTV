@@ -18,6 +18,7 @@ https://raw.githubusercontent.com/biancangming/wtv/master/m3u/cn.m3u  old
 
 https://raw.githubusercontent.com/zbefine/iptv/main/iptv.txt
 
+https://raw.githubusercontent.com/vbskycn/iptv/master/yyzb/bg.txt
 
 # EPG
 https://raw.githubusercontent.com/LiuYi0526/IPTV/EPG/guide_merge.xml
