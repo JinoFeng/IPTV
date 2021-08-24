@@ -26,7 +26,7 @@ https://raw.githubusercontent.com/goolguy007/radioer/main/TVradio.m3u
 https://raw.githubusercontent.com/LiuYi0526/IPTV/EPG/guide_merge.xml
 
 
-# HK
+# CNHK
 https://raw.githubusercontent.com/JinoFeng/IPTV/main/HK.m3u
 
 --
@@ -35,3 +35,5 @@ https://raw.githubusercontent.com/iptv-org/iptv/master/channels/hk.m3u
 
 https://raw.githubusercontent.com/biancangming/wtv/master/m3u/hk.m3u  old 
 
+## CNTW
+https://raw.githubusercontent.com/JinoFeng/IPTV/main/tw.m3u
